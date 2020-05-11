@@ -295,7 +295,7 @@ section.beFirst{
 
 .pricing-flex .flex-item{
      width:30%;
-     height: 430px;
+     height: 473px;
      background: #fff;
      border-top-right-radius: 6px;
      border-top-left-radius: 6px;
@@ -353,7 +353,7 @@ li.doller span{
 
 
 
-.flex-item .button{
+.flex-item li.button{
      text-transform: uppercase;
      color: #70cbce;
      padding: 15px;
